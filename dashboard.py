@@ -20,7 +20,7 @@ HIJAU = "#2ca02c"
 # =========================================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv(Path(__file__).parent / "all_data.csv")
+    df = pd.read_csv(Path(__file__).parent / "all_data_dashboard.csv")
 
     for kolom in ["order_purchase_timestamp",
                   "order_delivered_customer_date",
