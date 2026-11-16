@@ -3,9 +3,9 @@ Dashboard interaktif berbasis Streamlit untuk menyampaikan hasil analisis data e
 
 ## Pertanyaan Bisnis
 ```
-- **Pertanyaan 1:** Kategori produk apa yang menghasilkan revenue tertinggi sepanjang tahun 2018, dan berapa persentase kontribusinya terhadap total revenue pada periode tersebut?
-- **Pertanyaan 2:** Berapa rata-rata durasi pengiriman pesanan dari tanggal pembelian hingga diterima pelanggan pada setiap state sepanjang tahun 2018?
-- **Pertanyaan 3:** Bagaimana perkembangan jumlah pesanan dan total revenue setiap bulan selama periode 2017-2018, serta pada bulan apa kedua indikator tersebut mencapai nilai tertinggi?
+- Pertanyaan 1: Kategori produk apa yang menghasilkan revenue tertinggi sepanjang tahun 2018, dan berapa persentase kontribusinya terhadap total revenue pada periode tersebut?
+- Pertanyaan 2: Berapa rata-rata durasi pengiriman pesanan dari tanggal pembelian hingga diterima pelanggan pada setiap state sepanjang tahun 2018?
+- Pertanyaan 3: Bagaimana perkembangan jumlah pesanan dan total revenue setiap bulan selama periode 2017-2018, serta pada bulan apa kedua indikator tersebut mencapai nilai tertinggi?
 ```
 
 ## Fitur Dashboard
