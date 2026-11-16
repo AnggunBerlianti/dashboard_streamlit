@@ -10,13 +10,13 @@ Dashboard interaktif berbasis Streamlit untuk menyampaikan hasil analisis data e
 
 ## Fitur Dashboard
 ```
-- **Filter di sidebar:** rentang waktu pesanan dan pilihan state pelanggan.
-- **Ringkasan:** total pesanan, total revenue, pelanggan unik, rata-rata durasi pengiriman, dan persentase pesanan terlambat.
-- **Kategori Produk:** kategori dengan revenue tertinggi beserta persentase kontribusinya.
-- **Durasi Pengiriman:** rata-rata durasi pengiriman per state dibandingkan dengan rata-rata nasional.
-- **Tren Bulanan:** perkembangan jumlah pesanan dan total revenue per bulan beserta bulan puncaknya.
-- **Pelanggan:** sebaran pelanggan per state.
-- **Analisis RFM:** pelanggan terbaik pada tiap parameter dan segmentasi pelanggan berdasarkan `RFM_score`.
+- Filter di sidebar: rentang waktu pesanan dan pilihan state pelanggan.
+- Ringkasan: total pesanan, total revenue, pelanggan unik, rata-rata durasi pengiriman, dan persentase pesanan terlambat.
+- Kategori Produk: kategori dengan revenue tertinggi beserta persentase kontribusinya.
+- Durasi Pengiriman: rata-rata durasi pengiriman per state dibandingkan dengan rata-rata nasional.
+- Tren Bulanan: perkembangan jumlah pesanan dan total revenue per bulan beserta bulan puncaknya.
+- Pelanggan: sebaran pelanggan per state.
+- Analisis RFM: pelanggan terbaik pada tiap parameter dan segmentasi pelanggan berdasarkan `RFM_score`.
 ```
 
 ## Setup Environment
